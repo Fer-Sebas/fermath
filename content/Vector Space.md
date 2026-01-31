@@ -2,7 +2,8 @@
 title: Vector Space
 draft: false
 tags:
-  - example-tag
+  - AlgebraicStructure
+  - VectorSpace 
 ---
 
 > *Linear algebra redirects here. Linear algebra is the study of vector spaces and the transformations between them*
@@ -26,6 +27,3 @@ Is distributive:
 
 # Vector
 A vector is an element of a vector space. A vector is anything that behaves like a displacement under addition and scaling
-
-# Tags
-#AlgebraicStructure #VectorSpace 

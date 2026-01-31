@@ -6,11 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 00:54:30 GMT</pubDate>
+    <title>Vector Space</title>
+    <link>https://quartz.jzhao.xyz/Vector-Space</link>
+    <guid>https://quartz.jzhao.xyz/Vector-Space</guid>
+    <description><![CDATA[  Linear algebra redirects here. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:48:25 GMT</pubDate>
+  </item><item>
+    <title>Additivity</title>
+    <link>https://quartz.jzhao.xyz/Additivity</link>
+    <guid>https://quartz.jzhao.xyz/Additivity</guid>
+    <description><![CDATA[ Overview Additivity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Algebraic Properties</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Properties</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Properties</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Algebraic Structures</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures</guid>
+    <description><![CDATA[ Overview Algebraic structures are non-empty sets equipped with operations on such set along with specific axioms these operations must satisfy. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Associativity</title>
+    <link>https://quartz.jzhao.xyz/Associativity</link>
+    <guid>https://quartz.jzhao.xyz/Associativity</guid>
+    <description><![CDATA[ Overview Associativity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Basis</title>
+    <link>https://quartz.jzhao.xyz/Basis</link>
+    <guid>https://quartz.jzhao.xyz/Basis</guid>
+    <description><![CDATA[ Overview A basis is a set of linearly independent vectors that spans the space. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Closure</title>
+    <link>https://quartz.jzhao.xyz/Closure</link>
+    <guid>https://quartz.jzhao.xyz/Closure</guid>
+    <description><![CDATA[ Overview Closure is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Commutativity</title>
+    <link>https://quartz.jzhao.xyz/Commutativity</link>
+    <guid>https://quartz.jzhao.xyz/Commutativity</guid>
+    <description><![CDATA[ Overview Commutativity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Decimal (Base 10)</title>
+    <link>https://quartz.jzhao.xyz/Decimal-(Base-10)</link>
+    <guid>https://quartz.jzhao.xyz/Decimal-(Base-10)</guid>
+    <description><![CDATA[ Overview Decimals are a numeric system based on powers of 10. It has 10 characters to represent quantities (0-9). ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+  </item><item>
+    <title>Determinant</title>
+    <link>https://quartz.jzhao.xyz/Determinant</link>
+    <guid>https://quartz.jzhao.xyz/Determinant</guid>
+    <description><![CDATA[ Overview The determinant is a property of a linear operator, defined as the factor by which area, volume or n-volume are scaled, and indicates whether the transformation preserves or reverses orientation. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
