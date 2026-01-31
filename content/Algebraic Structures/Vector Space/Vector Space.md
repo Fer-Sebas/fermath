@@ -42,9 +42,9 @@ $\Large \cdot: F \times V \to V$
 
 Scalar multiplication must satisfy the following properties:
 * **[[Associativity]]**: scaling by one scalar and then another is the same as scaling by their product.
-  <br>$\large \forall a,b \in F, \forall v \in V, \space\space (ab) \cdot v = a \cdot (b \cdot v)$.<br><br>
+  <br><br>$\large \forall a,b \in F, \forall v \in V, \space\space (ab) \cdot v = a \cdot (b \cdot v)$.<br><br>
 * **[[Identity]]**: multiplying a vector by the scalar one leaves it unchanged (think multiplying by 1).
-  <br>$\large \forall v \in V = 1 \cdot v = v$.<br><br>
+  <br><br>$\large \forall v \in V = 1 \cdot v = v$.<br><br>
 * **[[Distributivity]]**: over vector addition and over scalar addition.
-  <br>$\large \forall a \in F, \forall u,v \in V, \space\space a \cdot (u +v) = a \cdot u + a \cdot v$.<br><br>
+  <br><br>$\large \forall a \in F, \forall u,v \in V, \space\space a \cdot (u +v) = a \cdot u + a \cdot v$.<br><br>
     <br>$\large \forall a, b \in F, \forall v \in V, \space\space (a +b) \cdot v = a \cdot v + b \cdot v$.<br><br>
