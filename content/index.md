@@ -1,6 +1,8 @@
 ---
-title: Fersebas Math Archive
+title: Welcome to Fermath
 ---
+
+My name is Sebastian Ferreira, and this is my math archive.
 
 On 2024 I decided to reteach myself all the math I didn't properly pay attention to since school, with the goal to genuinely understand it and being able to teach it.
 
