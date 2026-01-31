@@ -23,10 +23,10 @@ $\Large +: V \times V \to V$
 
 Vector addition must satisfy the following properties:
 * **[[Closure]]**: adding two vectors produces another vector.
-  <br>$\Large \forall u,v \in V, \space u + v \in V$<br><br>
+  <br><br>$\large \forall u,v \in V, \space u + v \in V$<br><br>
   
 * **[[Commutativity]]**: the order of addition does not alter the result.
-  <br>$\Large \forall u,v \in V, \space u + v = v + u$.<br><br>
+  <br><br>$\large \forall u,v \in V, \space u + v = v + u$.<br><br>
   
 * **[[Associativity]]**: grouping of addition does not matter.
 * **[Invertible](Inverse)**: every vector has an additive inverse.
