@@ -1,3 +1,10 @@
+---
+title: Vector Space
+draft: false
+tags:
+  - example-tag
+---
+
 > *Linear algebra redirects here. Linear algebra is the study of vector spaces and the transformations between them*
 # Overview
 A vector space is an [algebraic structure](Algebraic%20Structures) defined as a set of [vectors](Vector%20Space.md#Vector) $V$ where vector addition ($u + v \in V$) and scalar multiplication 
