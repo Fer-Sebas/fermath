@@ -1,5 +1,5 @@
 # Overview
-The determinant is a property of a [linear operator](Linear%20transformation#Linear%20Operator), defined as the factor by which area, volume or n-volume are scaled, and indicates whether the transformation preserves or reverses orientation.
+The determinant is a property of a [linear operator](Linear%20Transformation.md#Linear%20Operator), defined as the factor by which area, volume or n-volume are scaled, and indicates whether the transformation preserves or reverses orientation.
 # Compute the determinant
 ## 2-dimensional space
 To compute the determinant of a linear operator on a 2-dimensional vector space, we represent it in a basis as a $2 \times 2$ matrix $T$, and define $det(T) = ad - bc$.

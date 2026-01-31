@@ -22,4 +22,4 @@ The focus here is pedagogical rather than fully rigorous. Examples are meant as 
 
 Ultimately, to truly learn mathematics, you have to do it yourself.
 
-See the [[vector space]] for how to get started.
+See the [[Vector Space]] for how to get started.

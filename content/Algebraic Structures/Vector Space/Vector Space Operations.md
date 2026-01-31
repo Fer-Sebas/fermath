@@ -1,6 +1,6 @@
 ---
 title: Vector Space Operations
-draft:
+draft: true
 tags:
   - VectorSpace
 ---
