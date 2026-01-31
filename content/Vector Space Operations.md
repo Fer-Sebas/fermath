@@ -1,3 +1,10 @@
+---
+title: Vector Space Operations
+draft:
+tags:
+  - VectorSpace
+---
+
 # Overview
 [[Vector Space]]
 
@@ -8,6 +15,3 @@
 ## Weighted Sum
 
 ## Direct Sum
-
-# Tags
-#VectorSpace 
