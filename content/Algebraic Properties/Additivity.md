@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Overview
 Additivity is an [algebraic property](Algebraic%20Properties.md) defined as:
 # Tags
