@@ -30,7 +30,7 @@ Vector addition must satisfy the following properties:
   
 * **[[Associativity]]**: grouping of addition does not matter.
     <br><br>$\large \forall u,v,w \in V, \space (u + v) + w = u + (v + w)$.<br><br>
-* **[Invertible](Inverse)**: every vector has an additive inverse.
+* **[Invertible](Invertibility.md)**: every vector has an additive inverse.
     <br><br>$\large v+(-v) = (-v)+v=0$.<br><br>
 * **[[Identity]]**: there is a vector that changes nothing when added (think adding zero).
     <br><br>$\large \forall v \in V, \space v + 0 = 0 + v = v$.<br><br>
