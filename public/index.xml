@@ -6,65 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Identity</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Properties/Identity</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Properties/Identity</guid>
+    <description><![CDATA[ Overview Identity is an algebraic property of a set relative to an operation. ]]></description>
+    <pubDate>Sat, 07 Feb 2026 01:55:19 GMT</pubDate>
+  </item><item>
+    <title>Null Space</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Null-Space</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Null-Space</guid>
+    <description><![CDATA[ Overview The null space of a linear transformation from one vector space to another, is the subset of the first vector space consisting of all vectors that the transformation maps to zero in the codomain. ]]></description>
+    <pubDate>Sat, 07 Feb 2026 01:55:19 GMT</pubDate>
+  </item><item>
+    <title>Invertibility</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Properties/Invertibility</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Properties/Invertibility</guid>
+    <description><![CDATA[ Overview Invertibility is an algebraic property of an element relative to a binary operation. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
+  </item><item>
+    <title>Group</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Group</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Group</guid>
+    <description><![CDATA[ Overview A group is an algebraic structure consisting of a set equipped and a binary operation that is associative and closed, has an Identity element and for which every element admits an Invertibility. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
+  </item><item>
+    <title>Linear Combination</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Combination</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Combination</guid>
+    <description><![CDATA[ Overview A linear combination \large V is a sum of scalar multiples of vectors defined as \large V = av + bw where \large a, b are scalars and \large v, w are vectors. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
+  </item><item>
+    <title>Polynomial</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Polynomial</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Polynomial</guid>
+    <description><![CDATA[ Overview A polynomial is an algebraic object defined as the finite sum of powers of a variable multiplied by coefficients, for which there is only one coefficient per power such that (a_0 + a_1X + a_2X^2 + .. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
+  </item><item>
+    <title>Ring</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Ring</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Ring</guid>
+    <description><![CDATA[ AlgebraicStructure A ring is a type of algebraic structure. It consist of a set with two operations. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
+  </item><item>
     <title>Vector Space</title>
-    <link>https://quartz.jzhao.xyz/Vector-Space</link>
-    <guid>https://quartz.jzhao.xyz/Vector-Space</guid>
-    <description><![CDATA[  Linear algebra redirects here. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:48:25 GMT</pubDate>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Vector-Space</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Vector-Space</guid>
+    <description><![CDATA[ Overview A vector space is an algebraic structure defined as a set \large V together with two operations called vector addition (which combines two vectors) and scalar multiplication (which scales a vector by a scalar). ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:13:24 GMT</pubDate>
   </item><item>
-    <title>Additivity</title>
-    <link>https://quartz.jzhao.xyz/Additivity</link>
-    <guid>https://quartz.jzhao.xyz/Additivity</guid>
-    <description><![CDATA[ Overview Additivity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+    <title>Column Space</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Column-Space</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Column-Space</guid>
+    <description><![CDATA[ Overview The column space of a linear equation matrix is the space of possible outputs/solutions to the system of equations for that matrix. ]]></description>
+    <pubDate>Tue, 03 Feb 2026 00:01:35 GMT</pubDate>
   </item><item>
-    <title>Algebraic Properties</title>
-    <link>https://quartz.jzhao.xyz/Algebraic-Properties</link>
-    <guid>https://quartz.jzhao.xyz/Algebraic-Properties</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Algebraic Structures</title>
-    <link>https://quartz.jzhao.xyz/Algebraic-Structures</link>
-    <guid>https://quartz.jzhao.xyz/Algebraic-Structures</guid>
-    <description><![CDATA[ Overview Algebraic structures are non-empty sets equipped with operations on such set along with specific axioms these operations must satisfy. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Associativity</title>
-    <link>https://quartz.jzhao.xyz/Associativity</link>
-    <guid>https://quartz.jzhao.xyz/Associativity</guid>
-    <description><![CDATA[ Overview Associativity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Basis</title>
-    <link>https://quartz.jzhao.xyz/Basis</link>
-    <guid>https://quartz.jzhao.xyz/Basis</guid>
-    <description><![CDATA[ Overview A basis is a set of linearly independent vectors that spans the space. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Closure</title>
-    <link>https://quartz.jzhao.xyz/Closure</link>
-    <guid>https://quartz.jzhao.xyz/Closure</guid>
-    <description><![CDATA[ Overview Closure is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Commutativity</title>
-    <link>https://quartz.jzhao.xyz/Commutativity</link>
-    <guid>https://quartz.jzhao.xyz/Commutativity</guid>
-    <description><![CDATA[ Overview Commutativity is an algebraic property defined as: Tags AbstractAlgebra. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Decimal (Base 10)</title>
-    <link>https://quartz.jzhao.xyz/Decimal-(Base-10)</link>
-    <guid>https://quartz.jzhao.xyz/Decimal-(Base-10)</guid>
-    <description><![CDATA[ Overview Decimals are a numeric system based on powers of 10. It has 10 characters to represent quantities (0-9). ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
-  </item><item>
-    <title>Determinant</title>
-    <link>https://quartz.jzhao.xyz/Determinant</link>
-    <guid>https://quartz.jzhao.xyz/Determinant</guid>
-    <description><![CDATA[ Overview The determinant is a property of a linear operator, defined as the factor by which area, volume or n-volume are scaled, and indicates whether the transformation preserves or reverses orientation. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 01:42:47 GMT</pubDate>
+    <title>Linear Transformation</title>
+    <link>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Transformation</link>
+    <guid>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Transformation</guid>
+    <description><![CDATA[ Overview A linear transformation is a function that takes a vector as input and produces another vector in the same or a different vector space. ]]></description>
+    <pubDate>Tue, 03 Feb 2026 00:01:35 GMT</pubDate>
   </item>
     </channel>
   </rss>

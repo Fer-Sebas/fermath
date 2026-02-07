@@ -1,112 +1,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Additivity</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Properties/Algebraic-Properties</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Algebraic-Properties</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Properties/Identity</loc>
+    <lastmod>2026-02-07T01:55:19.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Algebraic-Structures</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Properties/Invertibility</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Associativity</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Algebraic-Structures</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Basis</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Field</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Closure</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Group</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Commutativity</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Magma</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Monoid</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Semigroup</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Basis</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Column-Space</loc>
+    <lastmod>2026-02-03T00:01:35.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Determinant</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Dual-Space</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Eigenvector</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Combination</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Form</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Independence</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Linear-Transformation</loc>
+    <lastmod>2026-02-03T00:01:35.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Null-Space</loc>
+    <lastmod>2026-02-07T01:55:19.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Polynomial</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Ring/Ring</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Span</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Subspace</loc>
+    <lastmod>2026-02-03T00:01:35.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Algebraic-Structures/Vector-Space/Vector-Space</loc>
+    <lastmod>2026-02-06T21:13:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Decimal-(Base-10)</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Determinant</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Distributivity</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Dual-Space</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Eigenvector</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Field</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Function</loc>
     <lastmod>2026-01-31T01:42:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Glossary</loc>
     <lastmod>2026-01-31T01:42:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Group</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Identity</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2026-01-31T00:54:30.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Inverse</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Linear-Combination</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Linear-Form</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Linear-Independence</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Linear-Transformation</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Magma</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Monoid</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Number-Theory</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Number</loc>
     <lastmod>2026-01-31T01:42:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Operation</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Sets/Function</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Ring</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Sets/Operation</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Semigroup</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Sets/Set-Operations</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Set-Operations</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Sets/Set-Properties</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Set-Properties</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Sets/Set-Theory</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Set-Theory</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Span</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Subspace</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Vector-Space-Operations</loc>
-    <lastmod>2026-01-31T01:42:47.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Vector-Space</loc>
-    <lastmod>2026-01-31T01:48:25.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2026-01-31T16:25:41.000Z</lastmod>
   </url></urlset>
