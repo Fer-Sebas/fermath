@@ -36,7 +36,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Written and edited by Sebastian Ferreira",
     },
     graph: {
       title: "Graph View",
