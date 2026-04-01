@@ -20,51 +20,9 @@ Current topics include:
 - Bridge intuitive explanations with formal language.
 - Keep notes concise, connected, and continuously improvable.
 
-## Tech stack
-
-- **Framework:** Quartz v4
-- **Content format:** Markdown (with wiki-style links)
-- **Runtime:** Node.js
-
-## Local development
-
-### 1) Install dependencies
-
-```bash
-npm install
-```
-
-### 2) Run locally
-
-```bash
-npx quartz build --serve
-```
-
-Then open the local URL shown in the terminal.
-
-### 3) Build static site
-
-```bash
-npx quartz build
-```
-
-Generated files are output to `public/`.
-
-## Content structure
-
-- `content/` → primary notes and pages
-- `quartz.config.ts` → site and plugin configuration
-- `quartz.layout.ts` → page layout configuration
-- `public/` → generated static output
-
 ## Contributing
 
 This is primarily a personal knowledge project, but typo fixes and clarity improvements are welcome.
-
-If you open an issue or PR, please:
-- Keep explanations beginner-friendly where possible
-- Prefer small, focused edits
-- Preserve internal links between notes
 
 ## License
 
